@@ -1,1 +1,1 @@
-Write a File Browser in Java from scratch. Side - project for a oop course in university.
+Write a File Browser in Java from scratch. Side - project for an oop course in university.
